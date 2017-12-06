@@ -1,0 +1,48 @@
+{
+	"origin": [
+		"#question# #Action# #person# #connector# #object# #punctuation#"
+	],
+	"Action": [
+		"use",
+		"stick",
+		"poke",
+		"hit",
+		"comfort",
+		"loosen",
+		"talk to",
+		"tighten"
+	],
+	"object": [
+		"a pineapple",
+		"Duct-Tape",
+		"whiskey",
+		"hot coffee",
+		"warm mittens",
+		"a bigger stick",
+		"a heavier hammer",
+		"drugs ... more Drugs",
+		"a fuzzy puppy",
+		"a furry kitten",
+		"a banana"
+	],
+	"connector": [
+		"by",
+		"with",
+		"over"
+	],
+	"question": [
+		"have you",
+		"maybe you should",
+		"you could always"
+	],
+	"punctuation": [
+		"?",
+		"!",
+		"."
+	],
+	"person": [
+		"him",
+		"her",
+		"it"
+	]
+}
